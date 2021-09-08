@@ -25,7 +25,7 @@ const App = () => {
 
     return (
         <>
-            <h2>Hava Durumu</h2>
+            <h2>Weather Status</h2>
             <WeatherStatus weather={weather} />
         </>
     )
